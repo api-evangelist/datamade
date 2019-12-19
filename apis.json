@@ -1,0 +1,59 @@
+{
+    "name": "DataMade",
+    "description": "<p>DataMade is a civic technology company. We build open source technology using open data to empower journalists, researchers, governments and advocacy organizations. DataMade was born out of Chicago's Open Government community. In 2011, Derek and Forest started working on civic technology as volunteers of Open City. At nights and over weekends, they've helped make civic apps like Chicago Lobbyists, Clear Streets, and Second City Zoning.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DataMade.png",
+    "tags": [
+        "api provider",
+        "city government",
+        "data",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datamade\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DataMade",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/DataMade.png",
+            "humanURL": "http:\/\/datamade.us\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datamade-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datamade-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/datamade.us\/blog\/index.html"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/datamade"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/datamade"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/DataMadeCo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/datamade.us\/"
+        }
+    ]
+}
